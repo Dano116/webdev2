@@ -2,15 +2,15 @@
   "discounts":[
 {
       "title": "Voucher",
-      "imgUrl": " https://raw.githubusercontent.com/Dano116/webdev2/main/voucher.jpeg?token=GHSAT0AAAAAACCVSCML6R2EZJV4X5XFOZUAZDCM46Q",   
-      "size": ["Small","Medium", "Large"],
-      "link": "contact"         
+      "imgUrl": " https://raw.githubusercontent.com/Dano116/webdev2/main/voucher.jpeg?token=GHSAT0AAAAAACCVSCML6R2EZJV4X5XFOZUAZDCM46Q" 
+     
+             
    },
    {
        "title": "Voucher Code",
-     "imgUrl": " https://raw.githubusercontent.com/Dano116/webdev2/main/vouchercode.jpeg?token=GHSAT0AAAAAACCVSCML6R2EZJV4X5XFOZUAZDCM46Q",
-       "size": ["Small","Medium", "Large"],
-      "link": "contact"
+     "imgUrl": " https://raw.githubusercontent.com/Dano116/webdev2/main/vouchercode.jpeg?token=GHSAT0AAAAAACCVSCML6R2EZJV4X5XFOZUAZDCM46Q"
+      
+     
    }
 
     
