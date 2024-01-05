@@ -5,10 +5,4 @@
       "imgUrl": "https://github.com/Dano116/webdev2/blob/main/voucher.jpeg?token=GHSAT0AAAAAACCVSCMLLQQXE7IT2S3QMKAEZDCM4VQ",   
       "stack": ["Collie","(Smooth coat)", "crossbreed"],
       "link": "about"         
-   },
-   {
-       "title": "Johnson",
-     "imgUrl": "https://raw.githubusercontent.com/Dano116/WebDev/main/dog%202.jpeg?token=GHSAT0AAAAAACCVSCML6R2EZJV4X5XFOZUAZDCM46Q",
-       "stack": ["Crossbreed", "Unknown"],
-      "link": "AboutView.vue"
    }
