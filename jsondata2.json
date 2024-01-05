@@ -4,7 +4,6 @@
       "title": "Pick A Mix",
       "imgUrl": " https://raw.githubusercontent.com/Dano116/webdev2/main/voucher.jpeg?token=GHSAT0AAAAAACCVSCML6R2EZJV4X5XFOZUAZDCM46Q"   
       "size": ["Small","Medium", "Large"]
-       
    },
    {
        "title": "Hampers",
@@ -12,6 +11,7 @@
        "size": ["Small","Medium", "Large"]
     
    },
+    
    {
       "title": "Chocolate",
     "imgUrl":"https://raw.githubusercontent.com/Dano116/external/main/chocolatebar.jpeg?token=GHSAT0AAAAAACCVSCML6R2EZJV4X5XFOZUAZDCM46Q",
@@ -22,7 +22,7 @@
     { 
       "title": "Retro Sweets", 
      "imgUrl":"https://raw.githubusercontent.com/Dano116/external/main/retro.jpg?token=GHSAT0AAAAAACCVSCMKXDKALCKNWRW7B7JAZDCM5NQ",
-     "size": ["Small","Medium", "Large"]
+     "size": ["Small","Medium", "Large"] }
      
     
     {
