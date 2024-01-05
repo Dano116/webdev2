@@ -20,21 +20,7 @@
    }
  , 
     { 
-      "title": "Retro Sweets", 
-     "imgUrl":"https://raw.githubusercontent.com/Dano116/external/main/retro.jpg?token=GHSAT0AAAAAACCVSCMKXDKALCKNWRW7B7JAZDCM5NQ",
-     "size": ["Small","Medium", "Large"] }
-     
-    
-    {
-      
-     "title": "American Candy",
-     "imgUrl":"https://raw.githubusercontent.com/Dano116/external/main/american.jpg?token=GHSAT0AAAAAACCVSCMLQQ2ZHGAN5F3GFXB6ZDCM5OQ", 
-     "size": ["Small","Medium", "Large"]
-   
-    
-     { "title": "Variety Tubs", 
-      "imgUrl":"https://raw.githubusercontent.com/Dano116/external/main/tubs.jpg?token=GHSAT0AAAAAACCVSCMLVFTAFV25EORZTG74ZDCM5QA",
-      "size": ["Small","Medium", "Large"] }
+      }
       
     
     
