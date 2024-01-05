@@ -2,13 +2,13 @@
   "discounts":[
 {
       "title": "Pick A Mix",
-      "imgUrl": " https://raw.githubusercontent.com/Dano116/external/main/pickamix.jpeg?token=GHSAT0AAAAAACCVSCML6R2EZJV4X5XFOZUAZDCM46Q",   
+      "imgUrl": " https://raw.githubusercontent.com/Dano116/webdev/main/voucher.jpeg?token=GHSAT0AAAAAACCVSCML6R2EZJV4X5XFOZUAZDCM46Q",   
       "size": ["Small","Medium", "Large"],
              
    },
    {
        "title": "Hampers",
-     "imgUrl": " https://raw.githubusercontent.com/Dano116/external/main/chocolatehamper.jpeg?token=GHSAT0AAAAAACCVSCML6R2EZJV4X5XFOZUAZDCM46Q",
+     "imgUrl": " https://raw.githubusercontent.com/Dano116/webdev2/main/vouchercode.jpeg?token=GHSAT0AAAAAACCVSCML6R2EZJV4X5XFOZUAZDCM46Q",
        "size": ["Small","Medium", "Large"],
     
    },
