@@ -1,24 +1,43 @@
 {
   "discounts":[
 {
-      "title": "Pick A Mix",
-      "imgUrl": " https://raw.githubusercontent.com/Dano116/webdev2/main/voucher.jpeg?token=GHSAT0AAAAAACCVSCML6R2EZJV4X5XFOZUAZDCM46Q"   
-      "size": ["Small","Medium", "Large"]
+      "title": "Voucher",
+      "imgUrl": " https://raw.githubusercontent.com/Dano116/webdev2/main/voucher.jpeg?token=GHSAT0AAAAAACCVSCML6R2EZJV4X5XFOZUAZDCM46Q",   
+      "size": ["Small","Medium", "Large"],
+      "link": "contact"         
    },
    {
-       "title": "Hampers",
+       "title": "Voucher Code",
      "imgUrl": " https://raw.githubusercontent.com/Dano116/webdev2/main/vouchercode.jpeg?token=GHSAT0AAAAAACCVSCML6R2EZJV4X5XFOZUAZDCM46Q",
-       "size": ["Small","Medium", "Large"]
-    
+       "size": ["Small","Medium", "Large"],
+      "link": "contact"
    },
-    
    {
       "title": "Chocolate",
     "imgUrl":"https://raw.githubusercontent.com/Dano116/external/main/chocolatebar.jpeg?token=GHSAT0AAAAAACCVSCML6R2EZJV4X5XFOZUAZDCM46Q",
-      "size": ["Small","Medium", "Large"]
-     
+      "size": ["Small","Medium", "Large"],
+     "link" : "contact"
    }
+ , 
+    { 
+      "title": "Retro Sweets", 
+     "imgUrl":"https://raw.githubusercontent.com/Dano116/external/main/retro.jpg?token=GHSAT0AAAAAACCVSCMKXDKALCKNWRW7B7JAZDCM5NQ",
+     "size": ["Small","Medium", "Large"],
+     "link" : "contact" } ,
+    
+    {
+      
+     "title": "American Candy",
+     "imgUrl":"https://raw.githubusercontent.com/Dano116/external/main/american.jpg?token=GHSAT0AAAAAACCVSCMLQQ2ZHGAN5F3GFXB6ZDCM5OQ", 
+     "size": ["Small","Medium", "Large"],
+     "link" : "contact" } , 
+    
+     { "title": "Variety Tubs", 
+      "imgUrl":"https://raw.githubusercontent.com/Dano116/external/main/tubs.jpg?token=GHSAT0AAAAAACCVSCMLVFTAFV25EORZTG74ZDCM5QA",
+      "size": ["Small","Medium", "Large"],
+      "link" : "contact" }
     
     
         ]
 }
+
